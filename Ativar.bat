@@ -1,5 +1,6 @@
 @ECHO OFF
 
+
 taskkill /F /IM nircmdc.exe
 
 CLS
@@ -85,7 +86,7 @@ GOTO End
 
 
 :End
-start "" "https://tutoriais.org/computador-e-notebook/volume-do-microfone-abaixando-sozinho-como-corrigir"
+start "" "https://www.youtube.com/watch?v=bpydVaJHMMI"
 taskkill /F /IM cmd.exe
 taskkill /F /IM conhost.exe /T 
 exit
