@@ -1,3 +1,0 @@
-@echo off
-echo Desativando...
-taskkill /F /IM nircmdc.exe
