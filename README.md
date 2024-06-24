@@ -4,6 +4,8 @@ Essa ferramenta permite fixar o volume do PC / Notebook em valores como: 10%, 20
 
 Veja o vídeo tutorial abaixo que publiquei no YouTube, ele ensina passo a passo como usar a ferramenta.
 
+Link para baixar a ferramenta: https://tiraduvidas.net/files/volume-do-microfone-abaixando-sozinho-como-corrigir/1/
+
 Link do vídeo tutorial: https://www.youtube.com/watch?v=bpydVaJHMMI
 
 [![Vídeo Tutorial no YouTube](https://i3.ytimg.com/vi/bpydVaJHMMI/maxresdefault.jpg)](https://www.youtube.com/watch?v=bpydVaJHMMI)
